@@ -1,8 +1,4 @@
-# ICP_BS_Model
-bs model in Rust, on ICP chain
-
-
-Here's an introduction to the Black-Scholes (BS) model suitable for a README file:
+# ICP_BS_Model， bs model in Rust, on ICP chain
 
 ---
 
